@@ -1,6 +1,7 @@
-## Summary  
+## Assignment 1
+# Vecta Corporation Web Page  
 
-This project is a **simple informational web page** for **Vecta Corporation**.  
+This page is a **simple informational web page** for **Vecta Corporation**.  
 It serves as a corporate profile site that introduces the company, highlights its products and services, showcases client testimonials, and provides contact details and leadership information.  
 
 ### Page Outline  
