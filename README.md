@@ -65,14 +65,3 @@ San Diego, CA 92115
 - Ferris — Founder and CEO  
 
 ---
-
-## Purpose of this Web Page
-
-This project is a **basic HTML5 page** that organizes company information into sections like **About, Solutions, Testimonials, Contact, and Team Members**.  
-
-It’s meant to demonstrate:  
-- Structuring real-world business content with HTML  
-- Using semantic sections for readability  
-- Preparing material for further styling with CSS  
-
----
